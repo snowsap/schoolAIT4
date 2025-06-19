@@ -16,7 +16,7 @@ public:
 
 private:
 	
-	std::vector<int, collum> allNeurons;
+	vector<collum> allNeurons;
 
 
 };
